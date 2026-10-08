@@ -1,0 +1,3 @@
+VERSION = "1.0"
+AUTHOR = "ax113"
+LICENSE = "GPL-3.0-only"
